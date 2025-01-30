@@ -16,7 +16,7 @@ Zip-Compressor-GUI is a simple graphical user interface (GUI) application that a
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/zip-compressor-gui.git
+    git clone https://github.com/fahadmughal5415/zip-compressor-gui.git
     ```
 2. Navigate to the project directory:
     ```sh
